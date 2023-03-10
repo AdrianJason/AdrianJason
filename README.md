@@ -2,7 +2,8 @@
 
 <!--
 **AdrianJason/AdrianJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!DOCTYPE html>
+<html>
 <h1 align="center">Hi 👋, I'm Adrian Aguilar</h1>
 <h3 align="center">A passionate IT professional from Texas.</h3>
 
