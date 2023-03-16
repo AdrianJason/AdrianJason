@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian J Aguilar</h1>
-<h3 align="center">A passionate IT professional from Texas.</h3>
+<h3 align="center">A passionate IT professional from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianjason&label=Profile%20views&color=0e75b6&style=flat" alt="adrianjason" /> </p>
 
